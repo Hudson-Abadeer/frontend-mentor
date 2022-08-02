@@ -1,0 +1,20 @@
+{
+  "name": "product-preview-card-component",
+  "version": "1.0.0",
+  "description": "Projects from Frontend Mentor new edits added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hudson-Abadeer/frontend-mentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hudson-Abadeer/frontend-mentor/issues"
+  },
+  "homepage": "https://github.com/Hudson-Abadeer/frontend-mentor#readme"
+}
